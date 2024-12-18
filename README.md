@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/48bcfab1-a567-47bd-8776-8e87fd159b8a)
----
 
 ![Christmas_Attendance_check_banner.png](https://img.notionusercontent.com/s3/prod-files-secure%2F8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13%2F69641ddc-ebf0-46c7-bd18-24565c1b5107%2FChristmas_Attendance_check_banner.png/size/w=2000?exp=1734490109&sig=mbpTbDAEu477Tw7p8J4oZjBe2NCvhpAmEfftrNsgXqQ)
 
@@ -425,20 +423,13 @@ Hiệu ứng tăng cường Bộ Sưu Tập Trang Bị Cấp 3 sẽ được đi
 Một danh mục Vé Rút sẽ được thêm vào Cửa Hàng Gói, cùng với các gói mới.
 
 - Sản Phẩm Gói Vé Rút
-
-| Tên Gói | Nội Dung | Giá (KRW) |
-
+| **Tên Gói** | **Nội Dung** | **Giá (KRW)** |
 | --- | --- | --- |
-
-| Gói Vé Rút ToyZ I | Vé Rút ToyZ x5 | 5000 |
-
-| Gói Vé Rút ToyZ II | Vé Rút ToyZ x18 | 18000 |
-
-| Gói Vé Rút ToyZ III | Vé Rút ToyZ x36 | 36000 |
-
-| Gói Vé Rút ToyZ IV | Vé Rút ToyZ x90 | 90000 |
-
-| Gói Vé Rút ToyZ V | Vé Rút ToyZ x180 | 180000 |
+| **Gói Vé Rút ToyZ I** | Vé Rút ToyZ x5 | 5000 |
+| **Gói Vé Rút ToyZ II** | Vé Rút ToyZ x18 | 18000 |
+| **Gói Vé Rút ToyZ III** | Vé Rút ToyZ x36 | 36000 |
+| **Gói Vé Rút ToyZ IV** | Vé Rút ToyZ x90 | 90000 |
+| **Gói Vé Rút ToyZ V** | Vé Rút ToyZ x180 | 180000 |
 
 ### Chế Tạo Mảnh Kỹ Năng
 
