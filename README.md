@@ -1,7 +1,7 @@
 
 ---
 
-![Christmas_Attendance_check_banner.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/69641ddc-ebf0-46c7-bd18-24565c1b5107/Christmas_Attendance_check_banner.png)
+![Christmas_Attendance_check_banner.png](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13%2F69641ddc-ebf0-46c7-bd18-24565c1b5107%2FChristmas_Attendance_check_banner.png?table=block&id=160a4d06-88eb-81fc-9c0b-efbbf7cc085d&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&width=2000&userId=160d872b-594c-8114-9321-000269dde05c&cache=v2)
 
 ## Update Notice
 
