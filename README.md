@@ -255,7 +255,7 @@ Sau cập nhật Common kỳ tuần thứ 3 của tháng 12, chỉ cần đăng 
 
 ### Phần Thưởng Xếp Hạng Grand Beginning
 
-![Grand Beginning_Notice.png](https://silly-boat-269.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13%2F1de2ce9f-91da-43cf-927f-cf3a83fdc209%2FGrand_Beginning_Notice.png?table=block&id=160a4d06-88eb-8112-a68e-cf72ce84c15f&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&width=1420&userId=&cache=v2https://silly-boat-269.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13%2F1de2ce9f-91da-43cf-927f-cf3a83fdc209%2FGrand_Beginning_Notice.png?table=block&id=160a4d06-88eb-8112-a68e-cf72ce84c15f&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&width=1420&userId=&cache=v2)
+![Grand Beginning_Notice.png](https://silly-boat-269.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13%2F1de2ce9f-91da-43cf-927f-cf3a83fdc209%2FGrand_Beginning_Notice.png?table=block&id=160a4d06-88eb-8112-a68e-cf72ce84c15f&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&width=1420&userId=&cache=v2)
 
 Trước hết, **chúng tôi chân thành cảm ơn tất cả các nhà phiêu lưu vì sự quan tâm và tham gia nhiệt tình vào sự kiện Grand Beginning.** Nhờ sự ủng hộ nhiệt tình của các bạn, sự kiện đã trở thành khoảng thời gian ý nghĩa và thú vị. Chúng tôi thực sự đánh giá cao nỗ lực tham gia của mọi người và sẽ cố gắng đền đáp bằng những sự kiện tốt hơn trong tương lai.
 
