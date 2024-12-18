@@ -29,8 +29,9 @@ Sưu tập 8 ToyZ đáng yêu có thể thu thập được từ Túi Moku với
 | **Túi Moku Lengend** | Túi Moku Myth x1 (20%) hoặc Viên Nang ToyZ Moku Lengend x1 (20%) hoặc Hộp Mảnh ToyZ x4 (60%) | Túi Moku Common x5 |
 | **Túi Moku Myth** | Viên Nang ToyZ Moku Myth x1 (20%) hoặc Viên Nang ToyZ Moku Lengend x1 (20%) hoặc Hộp Mảnh ToyZ x5 (60%) | Túi Moku Common x10 |
 
-- **ToyZ Myth**
-    
+<details>
+<summary><strong>ToyZ Myth</strong></summary>
+
     ![50042.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/1b150123-c3b6-4825-9b97-7bc3ae153ac4/50042.gif?table=block&id=160a4d06-88eb-81c7-9f53-f2de228a1a6e&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=W0NMq5aluK5CKiE8ND2UI802En4W_JAbn6J3EJQSxq4)
     
     - **Oniki**
@@ -40,6 +41,7 @@ Sưu tập 8 ToyZ đáng yêu có thể thu thập được từ Túi Moku với
     
     - **Borealis**
         - Ice
+</details>
 - **Legendary ToyZ**
     
     
