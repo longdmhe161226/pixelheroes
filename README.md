@@ -33,103 +33,94 @@ Sưu tập 8 ToyZ đáng yêu có thể thu thập được từ Túi Moku với
 
 - **ToyZ Thần Thoại**
     
-    ![50042.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/1b150123-c3b6-4825-9b97-7bc3ae153ac4/50042.gif)
+    ![50042.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/1b150123-c3b6-4825-9b97-7bc3ae153ac4/50042.gif?table=block&id=160a4d06-88eb-81c7-9f53-f2de228a1a6e&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=W0NMq5aluK5CKiE8ND2UI802En4W_JAbn6J3EJQSxq4)
     
     - **Oniki**
         - Wind
     
-    ![50043.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/5f080e69-4916-421c-b913-3c9e8cf5fdcf/50043.gif)
+    ![50043.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/5f080e69-4916-421c-b913-3c9e8cf5fdcf/50043.gif?table=block&id=160a4d06-88eb-81e8-b7dc-c0bbe09ef1e0&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=_q1TPLA3CPjMkuXlZzTdjAKBFB35VoIFK8CEB57yAVg)
     
     - **Borealis**
         - Ice
 - **Legendary ToyZ**
     
     
-    ![40083.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/43d12299-0e14-4df2-bfa3-3f5fb082616d/40083.gif)
+    ![40083.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/43d12299-0e14-4df2-bfa3-3f5fb082616d/40083.gif?table=block&id=160a4d06-88eb-8172-9ad8-c9c4d568a849&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=BvA6J6ZnWUKObFlNTMyYKhjUdFr-aKwfI2b2XL9Dcv8)
     
     - **Spirit Moku**
         - Light
     
-    ![40084.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/39306669-83fe-4627-93e7-70ee8cd38955/40084.gif)
+    ![40084.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/39306669-83fe-4627-93e7-70ee8cd38955/40084.gif?table=block&id=160a4d06-88eb-8101-bbb4-ec513e9b59ce&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=kRBn62YJ-QicBTfFxf8_wX2ExlJ6ebSRWeiLKKX6lRA)
     
     - **Shadow Moku**
         - Darkness
 - **Epic ToyZ**
     
     
-    ![30117.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/145ff7a5-d3d0-48e7-8ab8-8b71d7afebad/30117.gif)
+    ![30117.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/145ff7a5-d3d0-48e7-8ab8-8b71d7afebad/30117.gif?table=block&id=160a4d06-88eb-81eb-bfb2-c7a417359d56&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=hGounTE2EhzXFeBn3MV8kvkPPRCroQrNoCYXKauurHM)
     
     - **Kaki**
         - Plant
     
-    ![30118.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/82a4eb6f-42b4-40d2-b3a8-4ff9fa8052d1/30118.gif)
+    ![30118.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/82a4eb6f-42b4-40d2-b3a8-4ff9fa8052d1/30118.gif?table=block&id=160a4d06-88eb-8184-8a8d-c646bfa7b362&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=JyCy_AB6sJDOehzPrzyPyQdXCO9FSt-ObxBHNTd9lWQ)
     
     - **Ogama**
         - Poison
 - **Rare ToyZ**
     
     
-    ![20085.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/1cc801ec-ae32-42b9-a2c1-c6f09de70a31/20085.gif)
+    ![20085.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/1cc801ec-ae32-42b9-a2c1-c6f09de70a31/20085.gif?table=block&id=160a4d06-88eb-81e1-8dc8-cc94b05497ac&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=S1EZ1evAZJCwJit0z5V-yjTpQHvJUdbNuEeIt8KtZZY)
     
     - **Hoshimi**
         - Water
     
-    ![20086.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/ddcedba9-1d46-4d0f-bdc2-321418a8f28b/20086.gif)
+    ![20086.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/ddcedba9-1d46-4d0f-bdc2-321418a8f28b/20086.gif?table=block&id=160a4d06-88eb-8157-b19c-c1dc92c33db6&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=dd_dzjmB0fjzG7mMa7RMeEN4gpAps9nPJAPDl8VlJWs)
     
     - **Katoro**
         - Earth
 
 <aside>
-💡
-
-Merry Moku Mayhem ToyZ are event-exclusive ToyZ. After the event ends, they can be registered, crafted, and cloned by the DApp Manager.
-
+💡 ToyZ của Lễ Hội Moku Vui Nhộn là ToyZ độc quyền sự kiện. Sau khi sự kiện kết thúc, chúng có thể được đăng ký, chế tạo và nhân bản bởi DApp Manager.
 </aside>
 
 <aside>
-💡
-
-One Commemorative Scout slot for the Mary Moku Mayhem event is activated and available for the duration of the event.
-
+💡 Một vị trí Trinh Sát Kỷ Niệm cho sự kiện Lễ Hội Moku Vui Nhộn được kích hoạt và có sẵn trong suốt thời gian diễn ra sự kiện.
 </aside>
 
-### Mini Ratz Sweep Operation
+### Chiến Dịch Quét Mini Ratz
 
-Identify the elements of incoming Mini Ratz and use advantageous skills based on element compatibility to defeat them all and obtain Moku Coins!
+Xác định các nguyên tố của Mini Ratz đang tới và sử dụng các kỹ năng có lợi dựa trên tương thích nguyên tố để đánh bại tất cả chúng và nhận được Xu Moku!
 
-Sweep Operation Keys recharge for free once daily. If you hold Citizenship, one additional key will be sent to your mailbox at 5 AM (UTC +9) every day.
+Chìa khóa Chiến Dịch Quét được nạp lại miễn phí một lần mỗi ngày. Nếu bạn có Quyền Công Dân, một chìa khóa bổ sung sẽ được gửi đến hộp thư của bạn lúc 5 giờ sáng (UTC +9) mỗi ngày.
 
-*However, free recharge will not occur if you already possess Sweep Operation Keys.*
+*Tuy nhiên, nạp lại miễn phí sẽ không xảy ra nếu bạn đã có Chìa khóa Chiến Dịch Quét.*
 
 <aside>
-💡
-
-The elements of Mini Ratz change randomly with each entry and can be checked in the UI before entering.
-Moku Coins earned from the Sweep Operation are accumulated as Event Pass XP and can be used to obtain Pass rewards.
-
+💡 Các nguyên tố của Mini Ratz thay đổi ngẫu nhiên mỗi lần vào và có thể được kiểm tra trong giao diện người dùng trước khi vào.
+Xu Moku kiếm được từ Chiến Dịch Quét được tích lũy như XP Pass Sự Kiện và có thể được sử dụng để nhận phần thưởng Pass.
 </aside>
 
-### The Squeak of the Norf Raid
+### Raid Tiếng Kêu của Norf
 
-Start the boss raid by donating cheese, which Noff loves!
+Bắt đầu raid boss bằng cách quyên góp phô mai, thứ mà Noff yêu thích!
 
-Overcome obstacles, defeat Noff, and claim various rewards!
+Vượt qua các chướng ngại vật, đánh bại Noff và nhận các phần thưởng khác nhau!
 
-Once the raid opens, you can enter through the “Raid Entry” button at the top.
+Khi raid mở, bạn có thể vào thông qua nút "Vào Raid" ở trên cùng.
 
-*If you do not deal damage to Noff, you will not receive rewards.*
+*Nếu bạn không gây sát thương cho Noff, bạn sẽ không nhận được phần thưởng.*
 
-### Guild Donation Ranking
+### Bảng Xếp Hạng Quyên Góp Bang Hội
 
-When the raid is summoned, guilds will receive ranking points based on the number of donations, and accumulated points will determine the Premium Mystery Box rewards at the end of the event.
+Khi raid được triệu hồi, các bang hội sẽ nhận điểm xếp hạng dựa trên số lượng quyên góp, và điểm tích lũy sẽ quyết định phần thưởng Hộp Bí Ẩn Cao Cấp vào cuối sự kiện.
 
-Rewards are distributed proportionally based on the quantity of donated resources.
+Phần thưởng được phân phối tỷ lệ thuận với số lượng tài nguyên đã quyên góp.
 
-- **Raid Summon Participation Reward** (granted to all ranked guilds):
-    - Moku Coin x500
-- **Raid Summon Ranking Rewards**
+- **Phần Thưởng Tham Gia Triệu Hồi Raid** (dành cho tất cả các bang hội được xếp hạng):
+    - Xu Moku x500
+- **Phần Thưởng Xếp Hạng Triệu Hồi Raid**
 
-| **Guild Rank** | **Common Moku Bag** | **Rank Points** |
+| **Hạng Bang Hội** | **Túi Moku Thường** | **Điểm Hạng** |
 | --- | --- | --- |
 | 1 | 5 | 30 |
 | 2 | 3 | 25 |
@@ -143,9 +134,10 @@ Rewards are distributed proportionally based on the quantity of donated resource
 | 10 | 1 | 4 |
 | 11~20 | 0 | 2 |
 | 21~30 | 0 | 1 |
-- **Ranking Rewards**
 
-| **Guild Rank** | **Reward** |
+- **Phần Thưởng Xếp Hạng**
+
+| **Hạng Bang Hội** | **Phần Thưởng** |
 | --- | --- |
 | 1 | 500 |
 | 2 | 250 |
@@ -158,24 +150,24 @@ Rewards are distributed proportionally based on the quantity of donated resource
 ### Moku Pass
 
 - **Moku Pass I**:
-    - Moku Coins earned in the Mini Ratz Sweep Operation are accumulated as Pass XP, and **Cheese** can be obtained based on XP.
+    - Xu Moku kiếm được trong Chiến Dịch Quét Mini Ratz được tích lũy như Pass XP, và có thể nhận được **Phô Mai** dựa trên XP.
 - **Moku Pass II**:
-    - Killing any monsters accumulates Pass XP, and **Star Coins** can be obtained based on XP.
+    - Tiêu diệt bất kỳ quái vật nào tích lũy Pass XP, và có thể nhận được **Xu Sao** dựa trên XP.
 - **Moku Pass III**:
-    - Completing Bingo accumulates Pass XP, and **Diamonds and Moku Bags** can be obtained based on XP.
-- **Moku Pass Products**
+    - Hoàn thành Bingo tích lũy Pass XP, và có thể nhận được **Kim Cương và Túi Moku** dựa trên XP.
+- **Sản Phẩm Moku Pass**
 
-| **Pass Name** | **Total Free Rewards** | **Total Paid Rewards** | **Price (KRW)** |
+| **Tên Pass** | **Tổng Phần Thưởng Miễn Phí** | **Tổng Phần Thưởng Trả Phí** | **Giá (KRW)** |
 | --- | --- | --- | --- |
-| **Moku Pass I** | Cheese x640 | Cheese x3200 | 5500 |
-| **Moku Pass II** | Star x1700 | Star x17000 | 11000 |
-| **Moku Pass III** | Diamonds x2000, Common Moku Bag x14, Rare Moku Bag x1, Epic Moku Bag x1 | Diamonds x10000, Common Moku Bag x70, Epic Moku Bag x1, Legendary Moku Bag x1 | 22000 |
+| **Moku Pass I** | Phô Mai x640 | Phô Mai x3200 | 5500 |
+| **Moku Pass II** | Sao x1700 | Sao x17000 | 11000 |
+| **Moku Pass III** | Kim Cương x2000, Túi Moku Thường x14, Túi Moku Hiếm x1, Túi Moku Xuất Sắc x1 | Kim Cương x10000, Túi Moku Thường x70, Túi Moku Xuất Sắc x1, Túi Moku Huyền Thoại x1 | 22000 |
 
 ### Star Bingo
 
-Use Star Coins obtained through Moku content to acquire Yellow, Blue, and Purple Galaxies, then match 3 Bingos!
+Sử dụng Xu Sao nhận được thông qua nội dung Moku để có được Thiên Hà Vàng, Xanh và Tím, sau đó khớp 3 Bingo!
 
-Upon completing 3 Bingos, you can obtain 1 of 3 rewards set for the round randomly. You can reset the board for **Star Coins x30**.
+Khi hoàn thành 3 Bingo, bạn có thể nhận ngẫu nhiên 1 trong 3 phần thưởng được đặt cho vòng. Bạn có thể đặt lại bảng với **Xu Sao x30**.
 
 - **Bingo Rewards**
     - Galaxy Use Reward: Moku Coin x10
