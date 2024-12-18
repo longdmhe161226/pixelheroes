@@ -3,35 +3,35 @@
 
 ![Christmas_Attendance_check_banner.png](https://img.notionusercontent.com/s3/prod-files-secure%2F8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13%2F69641ddc-ebf0-46c7-bd18-24565c1b5107%2FChristmas_Attendance_check_banner.png/size/w=2000?exp=1734490109&sig=mbpTbDAEu477Tw7p8J4oZjBe2NCvhpAmEfftrNsgXqQ)
 
-## Update Notice
+## Thông Báo Cập Nhật
 
-This week’s regular update will take place on the 18th at 4:30 AM (UTC +9) for a duration of 3 hours.
+Cập nhật thường kỳ tuần này sẽ diễn ra vào ngày 18 lúc 4:30 sáng (UTC +9) trong thời gian 3 giờ.
 
-This week, only game updates will be performed.
+Tuần này, chỉ thực hiện cập nhật game.
 
-## Merry Moku Mayhem!
+## Lễ Hội Moku Vui Nhộn!
 
-![Moku_store_12.9_en.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/dc6c1bbf-d0dc-486d-ad5a-c6d185813227/Moku_store_12.9_en.png)
+![Moku_store_12.9_en.png](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/dc6c1bbf-d0dc-486d-ad5a-c6d185813227/Moku_store_12.9_en.png?table=block&id=160a4d06-88eb-81aa-bd25-f805596293ab&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734652800000&signature=Qklgu9SLZq9d0czf7PqJVYIhXuXQCoGsuqC4GJJL0k4&downloadName=Moku_store_12.9_en.png)
 
-Pixel Heroes Adventure X Moku collaboration event begins.
+Sự kiện hợp tác Pixel Heroes Adventure X Moku bắt đầu.
 
-Event End Date: Until the 3rd week of January regular update.
+Ngày Kết Thúc Sự Kiện: Cho đến cập nhật thường kỳ tuần thứ 3 của tháng 1.
 
 ### Moku ToyZ
 
-Collect 8 adorable ToyZ that can be obtained from Moku Bags at random probabilities!
+Sưu tập 8 ToyZ đáng yêu có thể thu thập được từ Túi Moku với xác suất ngẫu nhiên!
 
-- Bag Probability Table
+- Bảng Xác Suất Túi
 
-| **Item Name** | **Contents** | **Additional Rewards** |
+| **Tên Vật Phẩm** | **Nội Dung** | **Phần Thưởng Thêm** |
 | --- | --- | --- |
-| **Common Moku Bag** | Rare Moku Bag x1 (20%) or ToyZ Shard Box x1 (80%) |  |
-| **Rare Moku Bag** | Epic Moku Bag x1 (20%) or Rare Moku ToyZ Capsule x1 (20%) or ToyZ Shard Box x2 (60%) |  |
-| **Epic Moku Bag** | Legendary Moku Bag x1 (20%) or Epic Moku ToyZ Capsule x1 (20%) or ToyZ Shard Box x3 (60%) |  |
-| **Legendary Moku Bag** | Mythical Moku Bag x1 (20%) or Legendary Moku ToyZ Capsule x1 (20%) or ToyZ Shard Box x4 (60%) | Common Moku Bag x5 |
-| **Mythical Moku Bag** | Mythical Moku ToyZ Capsule x1 (20%) or Legendary Moku ToyZ Capsule x1 (20%) or ToyZ Shard Box x5 (60%) | Common Moku Bag x10 |
-- **Mythical ToyZ**
-    
+| **Túi Moku Thường** | Túi Moku Hiếm x1 (20%) hoặc Hộp Mảnh ToyZ x1 (80%) |  |
+| **Túi Moku Hiếm** | Túi Moku Xuất Sắc x1 (20%) hoặc Viên Nang ToyZ Moku Hiếm x1 (20%) hoặc Hộp Mảnh ToyZ x2 (60%) |  |
+| **Túi Moku Xuất Sắc** | Túi Moku Huyền Thoại x1 (20%) hoặc Viên Nang ToyZ Moku Xuất Sắc x1 (20%) hoặc Hộp Mảnh ToyZ x3 (60%) |  |
+| **Túi Moku Huyền Thoại** | Túi Moku Thần Thoại x1 (20%) hoặc Viên Nang ToyZ Moku Huyền Thoại x1 (20%) hoặc Hộp Mảnh ToyZ x4 (60%) | Túi Moku Thường x5 |
+| **Túi Moku Thần Thoại** | Viên Nang ToyZ Moku Thần Thoại x1 (20%) hoặc Viên Nang ToyZ Moku Huyền Thoại x1 (20%) hoặc Hộp Mảnh ToyZ x5 (60%) | Túi Moku Thường x10 |
+
+- **ToyZ Thần Thoại**
     
     ![50042.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/1b150123-c3b6-4825-9b97-7bc3ae153ac4/50042.gif)
     
