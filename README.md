@@ -374,79 +374,90 @@ Sau khi phát hành đợt thứ hai, ToyZ Mùa 3 sẽ có sẵn để đăng k�
     - **Winterspecter**
         - Ice
     
-    ![30097.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/410c460f-8eed-470d-a606-f92edd139927/30107.gif?table=block&id=160a4d06-88eb-8195-a7a0-e1b09830317f&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=fkGnYzqjnxFOhtNUMZC0ijEG8mGXjCLAh6ok3taTZWE)
+    ![30097.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/4e50776d-c95b-47ab-b6f0-cf4963de0eff/30097.gif?table=block&id=160a4d06-88eb-8119-89ff-f264dc9b52bf&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=LjRgWHKCKikzWjWPYd5IomHqxMtK_kLD1NtTqqC6quc)
     
     - **Everlyn**
         - Plant
     
-    ![30099.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/4e50776d-c95b-47ab-b6f0-cf4963de0eff/30097.gif?table=block&id=160a4d06-88eb-8119-89ff-f264dc9b52bf&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=LjRgWHKCKikzWjWPYd5IomHqxMtK_kLD1NtTqqC6quc)
+    ![30099.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/65a7e8c4-b3cc-4855-b68b-a55bf2d7f3d5/30099.gif?table=block&id=160a4d06-88eb-8153-925b-f8e419c9c2c2&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=eruVLm62fmqUR2iaFAeN6WgnzgspGeoTQNY0PfJT6rQ)
     
     - **Stitch Bunny**
         - Darkness
     
-    ![30101.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/9117638c-88fd-43e5-bea5-f38102384c40/30101.gif)
+    ![30101.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/9117638c-88fd-43e5-bea5-f38102384c40/30101.gif?table=block&id=160a4d06-88eb-8101-9e2e-dd4aa5e9db4b&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=6kVO0wRaEOtBmXAMAZpXSsP-ONVARE758y-2NICoqrU)
     
     - **Watermelon Trio**
         - Plant
     
-    ![30104.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/70f30b19-8ebb-4ccc-8b9e-dcc442b1d766/30104.gif)
+    ![30104.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/70f30b19-8ebb-4ccc-8b9e-dcc442b1d766/30104.gif?table=block&id=160a4d06-88eb-8159-a91a-ec71b852655d&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=uw2icIZr2HGh8edFIeuDQY9aOgttTVxONkjOaKOdPOQ)
     
     - **Candlerus**
         - Darkness
     
-    ![30106.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/2cd4843c-857d-47ff-8675-7e5493dccd57/30106.gif)
+    ![30106.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/2cd4843c-857d-47ff-8675-7e5493dccd57/30106.gif?table=block&id=160a4d06-88eb-81dd-b9e8-ccff2d00aee0&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=nQTPwf3lxTXK3r3Suc_Emm0tIOQRvhmgnDjRrGCQRqg)
     
     - **Fire-Chicken Pico**
         - Fire
     
-    ![30109.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/c2330214-3100-4d2d-af08-0d729fcc3845/30109.gif)
+    ![30109.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/c2330214-3100-4d2d-af08-0d729fcc3845/30109.gif?table=block&id=160a4d06-88eb-81a7-b5c6-c518c0dd3318&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=MZ63OU2pAJZKZyX0MMODNKzFRTfSE8kADlKogO583ak)
     
     - **Ringo**
         - Earth
 
-### ToyZ Season 2 End
+### ToyZ Season 2 kết thúc
 
-![시즌2토이즈_종료.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/c95c811b-06ca-4645-96df-c2e465013d4d/%EC%8B%9C%EC%A6%8C2%ED%86%A0%EC%9D%B4%EC%A6%88_%EC%A2%85%EB%A3%8C.png)
+![시즌2토이즈_종료.png](https://silly-boat-269.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13%2Fc95c811b-06ca-4645-96df-c2e465013d4d%2F%25EC%258B%259C%25EC%25A6%258C2%25ED%2586%25A0%25EC%259D%25B4%25EC%25A6%2588_%25EC%25A2%2585%25EB%25A3%258C.png?table=block&id=160a4d06-88eb-81d3-9489-ece610749f18&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&width=1420&userId=&cache=v2)
 
-The ToyZ Season 2 Draw will end.
+Rút ToyZ Mùa 2 sẽ kết thúc.
 
-Through ToyZ crafting, clones and blueprints for Season 2 ToyZ can be produced.
+Thông qua chế tạo ToyZ, nhân bản và bản thiết kế cho ToyZ Mùa 2 có thể được sản xuất.
 
-### Hard Difficulty Balance Adjustment
+### Điều Chỉnh Cân Bằng Độ Khó Cao
 
-The appearance rate of higher-grade equipment in Elite Monster and Party Dungeons has been increased.
+Tỷ lệ xuất hiện của trang bị cấp cao hơn trong Quái Vật Tinh Nhuệ và Địa Ngục Nhóm đã được tăng lên.
 
-### Grade 3 Equipment Codex
+### Sách Mô Tả Trang Bị Cấp 3
 
-Tier 3 Equipment Collection buffs will be adjusted across the board.
+Hiệu ứng tăng cường Bộ Sưu Tập Trang Bị Cấp 3 sẽ được điều chỉnh toàn diện.
 
-### ToyZ Draw Tickets
+### Vé Rút ToyZ
 
-A **Draw Ticket** category will be added to the Package Shop, along with new packages.
+Một danh mục Vé Rút sẽ được thêm vào Cửa Hàng Gói, cùng với các gói mới.
 
-- **Draw Ticket Package Products**
+- Sản Phẩm Gói Vé Rút
 
-| **Package Name** | **Contents** | **Price (KRW)** |
+| Tên Gói | Nội Dung | Giá (KRW) |
+
 | --- | --- | --- |
-| **ToyZ Draw Ticket Package I** | ToyZ Draw Ticket x5 | 5000 |
-| **ToyZ Draw Ticket Package II** | ToyZ Draw Ticket x18 | 18000 |
-| **ToyZ Draw Ticket Package III** | ToyZ Draw Ticket x36 | 36000 |
-| **ToyZ Draw Ticket Package IV** | ToyZ Draw Ticket x90 | 90000 |
-| **ToyZ Draw Ticket Package V** | ToyZ Draw Ticket x180 | 180000 |
 
-### Skill Shard Crafting
+| Gói Vé Rút ToyZ I | Vé Rút ToyZ x5 | 5000 |
 
-In the Item Crafting UI, **50 Epic Skill Shards** can now be crafted into **Legendary Skill Shards**.
+| Gói Vé Rút ToyZ II | Vé Rút ToyZ x18 | 18000 |
 
-## Bug Fixes
+| Gói Vé Rút ToyZ III | Vé Rút ToyZ x36 | 36000 |
 
-- Fixed Elite Monster errors.
-- Difficult Normal monsters now drop 2 pieces of loot
-- Tier 3 equipment, materialization, and marketplace access restored
+| Gói Vé Rút ToyZ IV | Vé Rút ToyZ x90 | 90000 |
 
-## Upcoming Features
+| Gói Vé Rút ToyZ V | Vé Rút ToyZ x180 | 180000 |
 
-- PVP Content
-- Guild Content
-- Primal HeroZ In-Game Exchange Trading Feature
-- Primal HeroZ Synthesis
+### Chế Tạo Mảnh Kỹ Năng
+
+Trong giao diện Chế Tạo Vật Phẩm, giờ đây 50 Mảnh Kỹ Năng Xuất Sắc có thể được chế tạo thành Mảnh Kỹ Năng Huyền Thoại.
+
+## Sửa Lỗi
+
+- Đã sửa lỗi Quái Vật Tinh Nhuệ.
+
+- Quái vật Thường Khó giờ rơi 2 món chiến lợi phẩm
+
+- Đã khôi phục trang bị Cấp 3, vật chất hóa và quyền truy cập chợ giao dịch
+
+## Tính Năng Sắp Tới
+
+- Nội Dung PVP 
+
+- Nội Dung Bang Hội
+
+- Tính Năng Giao Dịch Trao Đổi Trong Game HeroZ Nguyên Thủy
+
+- Tổng Hợp HeroZ Nguyên Thủy
