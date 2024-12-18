@@ -3,7 +3,7 @@
 
 ## Thông Báo Cập Nhật
 
-Cập nhật thường kỳ tuần này sẽ diễn ra vào ngày 18 lúc 4:30 sáng (UTC +9) trong thời gian 3 giờ.
+Cập nhật Common kỳ tuần này sẽ diễn ra vào ngày 18 lúc 4:30 sáng (UTC +9) trong thời gian 3 giờ.
 
 Tuần này, chỉ thực hiện cập nhật game.
 
@@ -13,7 +13,7 @@ Tuần này, chỉ thực hiện cập nhật game.
 
 Sự kiện hợp tác Pixel Heroes Adventure X Moku bắt đầu.
 
-Ngày Kết Thúc Sự Kiện: Cho đến cập nhật thường kỳ tuần thứ 3 của tháng 1.
+Ngày Kết Thúc Sự Kiện: Cho đến cập nhật Common kỳ tuần thứ 3 của tháng 1.
 
 ### Moku ToyZ
 
@@ -23,11 +23,11 @@ Sưu tập 8 ToyZ đáng yêu có thể thu thập được từ Túi Moku với
 
 | **Tên Vật Phẩm** | **Nội Dung** | **Phần Thưởng Thêm** |
 | --- | --- | --- |
-| **Túi Moku Thường** | Túi Moku Hiếm x1 (20%) hoặc Hộp Mảnh ToyZ x1 (80%) |  |
-| **Túi Moku Hiếm** | Túi Moku Xuất Sắc x1 (20%) hoặc Viên Nang ToyZ Moku Hiếm x1 (20%) hoặc Hộp Mảnh ToyZ x2 (60%) |  |
-| **Túi Moku Xuất Sắc** | Túi Moku Huyền Thoại x1 (20%) hoặc Viên Nang ToyZ Moku Xuất Sắc x1 (20%) hoặc Hộp Mảnh ToyZ x3 (60%) |  |
-| **Túi Moku Huyền Thoại** | Túi Moku Thần Thoại x1 (20%) hoặc Viên Nang ToyZ Moku Huyền Thoại x1 (20%) hoặc Hộp Mảnh ToyZ x4 (60%) | Túi Moku Thường x5 |
-| **Túi Moku Thần Thoại** | Viên Nang ToyZ Moku Thần Thoại x1 (20%) hoặc Viên Nang ToyZ Moku Huyền Thoại x1 (20%) hoặc Hộp Mảnh ToyZ x5 (60%) | Túi Moku Thường x10 |
+| **Túi Moku Common** | Túi Moku Rare x1 (20%) hoặc Hộp Mảnh ToyZ x1 (80%) |  |
+| **Túi Moku Rare** | Túi Moku Epic x1 (20%) hoặc Viên Nang ToyZ Moku Rare x1 (20%) hoặc Hộp Mảnh ToyZ x2 (60%) |  |
+| **Túi Moku Epic** | Túi Moku Lengend x1 (20%) hoặc Viên Nang ToyZ Moku Epic x1 (20%) hoặc Hộp Mảnh ToyZ x3 (60%) |  |
+| **Túi Moku Lengend** | Túi Moku Thần Thoại x1 (20%) hoặc Viên Nang ToyZ Moku Lengend x1 (20%) hoặc Hộp Mảnh ToyZ x4 (60%) | Túi Moku Common x5 |
+| **Túi Moku Thần Thoại** | Viên Nang ToyZ Moku Thần Thoại x1 (20%) hoặc Viên Nang ToyZ Moku Lengend x1 (20%) hoặc Hộp Mảnh ToyZ x5 (60%) | Túi Moku Common x10 |
 
 - **ToyZ Thần Thoại**
     
@@ -110,7 +110,7 @@ Khi raid mở, bạn có thể vào thông qua nút "Vào Raid" ở trên cùng.
 
 ### Bảng Xếp Hạng Quyên Góp Bang Hội
 
-Khi raid được triệu hồi, các bang hội sẽ nhận điểm xếp hạng dựa trên số lượng quyên góp, và điểm tích lũy sẽ quyết định phần thưởng Hộp Bí Ẩn Cao Cấp vào cuối sự kiện.
+Khi raid được triệu hồi, các bang hội sẽ nhận điểm xếp hạng dựa trên số lượng quyên góp, và điểm tích lũy sẽ quyết định phần thưởng Hộp Myth Cao Cấp vào cuối sự kiện.
 
 Phần thưởng được phân phối tỷ lệ thuận với số lượng tài nguyên đã quyên góp.
 
@@ -118,7 +118,7 @@ Phần thưởng được phân phối tỷ lệ thuận với số lượng tà
     - Xu Moku x500
 - **Phần Thưởng Xếp Hạng Triệu Hồi Raid**
 
-| **Hạng Bang Hội** | **Túi Moku Thường** | **Điểm Hạng** |
+| **Hạng Bang Hội** | **Túi Moku Common** | **Điểm Hạng** |
 | --- | --- | --- |
 | 1 | 5 | 30 |
 | 2 | 3 | 25 |
@@ -159,7 +159,7 @@ Phần thưởng được phân phối tỷ lệ thuận với số lượng tà
 | --- | --- | --- | --- |
 | **Moku Pass I** | Phô Mai x640 | Phô Mai x3200 | 5500 |
 | **Moku Pass II** | Sao x1700 | Sao x17000 | 11000 |
-| **Moku Pass III** | Kim Cương x2000, Túi Moku Thường x14, Túi Moku Hiếm x1, Túi Moku Xuất Sắc x1 | Kim Cương x10000, Túi Moku Thường x70, Túi Moku Xuất Sắc x1, Túi Moku Huyền Thoại x1 | 22000 |
+| **Moku Pass III** | Kim Cương x2000, Túi Moku Common x14, Túi Moku Rare x1, Túi Moku Epic x1 | Kim Cương x10000, Túi Moku Common x70, Túi Moku Epic x1, Túi Moku Lengend x1 | 22000 |
 
 ### Star Bingo
 
@@ -182,25 +182,25 @@ Khi hoàn thành 3 Bingo, bạn có thể nhận ngẫu nhiên 1 trong 3 phần 
 | **Phô Mai** | 500 | 0.354% |
 | **Chìa Khóa Chiến Dịch Quét** | 1 | 2.659% |
 | **Hộp Quà Moku** | 1 | 2.659% |
-| **Túi Moku Thường** | 1 | 5.317% |
-| **Túi Moku Hiếm** | 1 | 1.772% |
-| **Túi Moku Xuất Sắc** | 1 | 0.354% |
-| **Túi Moku Huyền Thoại** | 1 | 0.035% |
-| **Chìa Khóa Bí Ẩn** | 5 | 1.772% |
+| **Túi Moku Common** | 1 | 5.317% |
+| **Túi Moku Rare** | 1 | 1.772% |
+| **Túi Moku Epic** | 1 | 0.354% |
+| **Túi Moku Lengend** | 1 | 0.035% |
+| **Chìa Khóa Myth** | 5 | 1.772% |
 
 ### Sự Kiện Pinball 
 
 ![Moku_Pinball.png](https://silly-boat-269.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13%2Fe92363e5-cfe4-4fd9-82ce-09d05b341a7d%2FMoku_Pinball.png?table=block&id=160a4d06-88eb-81b8-9480-c7629064fc89&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&width=1420&userId=&cache=v2)
 
-Dựa trên số lần hoàn thành bingo, bạn sẽ nhận được vé tham gia Rút Thăm Sự Kiện Pinball để có cơ hội trúng HeroZ Genesis cấp độ Xuất Sắc!
+Dựa trên số lần hoàn thành bingo, bạn sẽ nhận được vé tham gia Rút Thăm Sự Kiện Pinball để có cơ hội trúng HeroZ Genesis cấp độ Epic!
 
 Rút Thăm Lần 1: Ngày 3 tháng 1 năm 2025 (sẽ thông báo thêm ngày)
 
-3 người thắng: Mỗi người 1 HeroZ Genesis Thường, Hiếm và Xuất Sắc.
+3 người thắng: Mỗi người 1 HeroZ Genesis Common, Rare và Epic.
 
 Rút Thăm Lần 2: Ngày 17 tháng 1 năm 2025 (sẽ thông báo ngày)
 
-3 người thắng: Mỗi người 1 HeroZ Genesis Thường, Hiếm và Xuất Sắc.
+3 người thắng: Mỗi người 1 HeroZ Genesis Common, Rare và Epic.
 
 <aside>
 💡
@@ -219,39 +219,39 @@ Vé rút thăm trúng trong lần rút thăm đầu tiên sẽ bị tiêu hao.
 | **Đá Nâng Cấp Áo Giáp** | 3 | 12.50% |
 | **Đá Nâng Cấp Nguyên Liệu** | 3 | 12.50% |
 | **Hộp Mảnh ToyZ Cao Cấp** | 1 | 12.50% |
-| **Túi Thường** | 1 | 12.50% |
+| **Túi Common** | 1 | 12.50% |
 
 ### Cửa Hàng Moku
 
 | **Vật Phẩm** | **Tiền Tệ** | **Giá** | **Giới Hạn** |
 | --- | --- | --- | --- |
-| **Túi Moku Thường** | Kim Cương | 5000 | Hàng ngày 5 lần |
+| **Túi Moku Common** | Kim Cương | 5000 | Hàng ngày 5 lần |
 | **Hộp Quà Moku** | Xu Moku | 1000 | x |
 | **Hộp Quà Moku** | Kim Cương | 3000 | x |
-| **Viên Nang Moku Xuất Sắc** | Búp Bê Ratz | 5 | 1 lần |
-| **Viên Nang Moku Huyền Thoại** | Búp Bê Moku | 5 | 1 lần |
-| **Viên Nang Moku Xuất Sắc** | Túi Moku Xuất Sắc | 4 | 1 lần |
-| **Viên Nang Moku Huyền Thoại** | Túi Moku Huyền Thoại | 4 | 1 lần |
-| **Viên Nang Moku Thần Thoại** | Túi Moku Huyền Thoại | 4 | 1 lần |
+| **Viên Nang Moku Epic** | Búp Bê Ratz | 5 | 1 lần |
+| **Viên Nang Moku Lengend** | Búp Bê Moku | 5 | 1 lần |
+| **Viên Nang Moku Epic** | Túi Moku Epic | 4 | 1 lần |
+| **Viên Nang Moku Lengend** | Túi Moku Lengend | 4 | 1 lần |
+| **Viên Nang Moku Thần Thoại** | Túi Moku Lengend | 4 | 1 lần |
 
 ### Gói Moku
 
 | **Tên Gói** | **Nội Dung** | **Giá (KRW)** | **Giới Hạn** |
 | --- | --- | --- | --- |
-| **Gói Sự Kiện Moku I** | Túi Thường x20 | 9900 | Không giới hạn |
+| **Gói Sự Kiện Moku I** | Túi Common x20 | 9900 | Không giới hạn |
 | **Gói Sự Kiện Moku II** | Chìa Khóa Chiến Dịch Quét, Xu Moku x500 | 1200 | Hàng ngày 1 lần |
 | **Gói Sự Kiện Moku III** | Tiền Tệ Bingo x500, Xu Moku x1500 | 3300 | Hàng ngày 1 lần |
-| **Gói Sự Kiện Moku IV** | Túi Hiếm x15, Xu Moku x10000 | 22000 | 5 lần mỗi tài khoản |
-| **Gói Sự Kiện Moku V** | Túi Xuất Sắc x10, Xu Moku x25000, Búp Bê Ratz x1 | 55000 | 5 lần mỗi tài khoản |
-| **Gói Sự Kiện Moku VI** | Túi Huyền Thoại x5, Xu Moku x50000, Búp Bê Moku x1 | 110000 | 5 lần mỗi tài khoản |
+| **Gói Sự Kiện Moku IV** | Túi Rare x15, Xu Moku x10000 | 22000 | 5 lần mỗi tài khoản |
+| **Gói Sự Kiện Moku V** | Túi Epic x10, Xu Moku x25000, Búp Bê Ratz x1 | 55000 | 5 lần mỗi tài khoản |
+| **Gói Sự Kiện Moku VI** | Túi Lengend x5, Xu Moku x50000, Búp Bê Moku x1 | 110000 | 5 lần mỗi tài khoản |
 
 ### Quà Bất Ngờ Nyx
 
 ![고양이토이즈_전면배너.png](https://silly-boat-269.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13%2F2a47fe5c-1455-43de-8eb9-92fd4ce2361c%2F%25EA%25B3%25A0%25EC%2596%2591%25EC%259D%25B4%25ED%2586%25A0%25EC%259D%25B4%25EC%25A6%2588_%25EC%25A0%2584%25EB%25A9%25B4%25EB%25B0%25B0%25EB%2584%2588.png?table=block&id=160a4d06-88eb-8149-92a6-e2a0d9ebfc96&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&width=1420&userId=&cache=v2)
 
-Sau cập nhật thường kỳ tuần thứ 3 của tháng 12, chỉ cần đăng nhập là bạn sẽ nhận được **ToyZ Huyền Thoại 'Nyx'**.
+Sau cập nhật Common kỳ tuần thứ 3 của tháng 12, chỉ cần đăng nhập là bạn sẽ nhận được **ToyZ Lengend 'Nyx'**.
 
-Đăng nhập vào game, kiểm tra mã phiếu giảm giá và nhập vào **Cài đặt → Nhập Mã** để nhận ToyZ Huyền Thoại Nyx!
+Đăng nhập vào game, kiểm tra mã phiếu giảm giá và nhập vào **Cài đặt → Nhập Mã** để nhận ToyZ Lengend Nyx!
 
 ### Phần Thưởng Xếp Hạng Grand Beginning
 
@@ -262,13 +262,13 @@ Trước hết, **chúng tôi chân thành cảm ơn tất cả các nhà phiêu
 Tuy nhiên, trong sự kiện, một số người dùng đã được phát hiện lợi dụng vấn đề **quái vật boss ngừng di chuyển** để hoàn thành raid. Do đó, **số lượng phần thưởng sẽ được điều chỉnh** vì công bằng.
 
 - **Bang hội xếp hạng 1 và 2** sẽ nhận được phần thưởng đã lên lịch.
-- **Bang hội xếp hạng từ 3 đến 10** sẽ mỗi bang nhận được **50 Hộp Bí Ẩn Cao Cấp**.
+- **Bang hội xếp hạng từ 3 đến 10** sẽ mỗi bang nhận được **50 Hộp Myth Cao Cấp**.
 
 Quyết định này được đưa ra để duy trì sự công bằng và cân bằng trong game, nên chúng tôi mong nhận được sự thông cảm của các bạn. Chúng tôi sẽ tiếp tục cung cấp nội dung thú vị và trải nghiệm chơi game mượt mà. Một lần nữa cảm ơn sự nhiệt huyết và tham gia của các bạn. Cảm ơn!
 
 <aside>
 💡
-Phần thưởng Xếp Hạng Quyên Góp Bang Hội Grand Beginning sẽ được phân phối lần lượt sau cập nhật thường kỳ.
+Phần thưởng Xếp Hạng Quyên Góp Bang Hội Grand Beginning sẽ được phân phối lần lượt sau cập nhật Common kỳ.
 </aside>
 
 ## Cập Nhật Nội Dung
@@ -434,13 +434,13 @@ Một danh mục Vé Rút sẽ được thêm vào Cửa Hàng Gói, cùng với
 
 ### Chế Tạo Mảnh Kỹ Năng
 
-Trong giao diện Chế Tạo Vật Phẩm, giờ đây 50 Mảnh Kỹ Năng Xuất Sắc có thể được chế tạo thành Mảnh Kỹ Năng Huyền Thoại.
+Trong giao diện Chế Tạo Vật Phẩm, giờ đây 50 Mảnh Kỹ Năng Epic có thể được chế tạo thành Mảnh Kỹ Năng Lengend.
 
 ## Sửa Lỗi
 
 - Đã sửa lỗi Quái Vật Tinh Nhuệ.
 
-- Quái vật Thường Khó giờ rơi 2 món chiến lợi phẩm
+- Quái vật Common Khó giờ rơi 2 món chiến lợi phẩm
 
 - Đã khôi phục trang bị Cấp 3, vật chất hóa và quyền truy cập chợ giao dịch
 
