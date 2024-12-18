@@ -11,7 +11,7 @@ Tuần này, chỉ thực hiện cập nhật game.
 
 ## Lễ Hội Moku Vui Nhộn!
 
-![Moku_store_12.9_en.png](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/dc6c1bbf-d0dc-486d-ad5a-c6d185813227/Moku_store_12.9_en.png?table=block&id=160a4d06-88eb-81aa-bd25-f805596293ab&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734652800000&signature=Qklgu9SLZq9d0czf7PqJVYIhXuXQCoGsuqC4GJJL0k4&downloadName=Moku_store_12.9_en.png)
+![Moku_store_12.9_en.png](https://silly-boat-269.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13%2Fdc6c1bbf-d0dc-486d-ad5a-c6d185813227%2FMoku_store_12.9_en.png?table=block&id=160a4d06-88eb-81aa-bd25-f805596293ab&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&width=1420&userId=&cache=v2)
 
 Sự kiện hợp tác Pixel Heroes Adventure X Moku bắt đầu.
 
