@@ -374,14 +374,12 @@ Sau khi phát hành đợt thứ hai, ToyZ Mùa 3 sẽ có sẵn để đăng k�
     - **Winterspecter**
         - Ice
     
-    ![30097.gif](![image](https://github.com/user-attachments/assets/30e379ad-e750-489c-91ca-7e112ccca7b3)
-)
+    ![30097.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/410c460f-8eed-470d-a606-f92edd139927/30107.gif?table=block&id=160a4d06-88eb-8195-a7a0-e1b09830317f&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=fkGnYzqjnxFOhtNUMZC0ijEG8mGXjCLAh6ok3taTZWE)
     
     - **Everlyn**
         - Plant
     
-    ![30099.gif](![image](https://github.com/user-attachments/assets/8d3cf7f4-3627-4037-b6d0-92de95d18c69)
-)
+    ![30099.gif](https://file.notion.so/f/f/8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13/4e50776d-c95b-47ab-b6f0-cf4963de0eff/30097.gif?table=block&id=160a4d06-88eb-8119-89ff-f264dc9b52bf&spaceId=8b9ab09b-3f7e-403a-b11d-a68a4b7c1c13&expirationTimestamp=1734580800000&signature=LjRgWHKCKikzWjWPYd5IomHqxMtK_kLD1NtTqqC6quc)
     
     - **Stitch Bunny**
         - Darkness
