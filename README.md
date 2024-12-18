@@ -423,6 +423,7 @@ Hiệu ứng tăng cường Bộ Sưu Tập Trang Bị Cấp 3 sẽ được đi
 Một danh mục Vé Rút sẽ được thêm vào Cửa Hàng Gói, cùng với các gói mới.
 
 - Sản Phẩm Gói Vé Rút
+  
 | **Tên Gói** | **Nội Dung** | **Giá (KRW)** |
 | --- | --- | --- |
 | **Gói Vé Rút ToyZ I** | Vé Rút ToyZ x5 | 5000 |
